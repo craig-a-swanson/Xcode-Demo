@@ -22,7 +22,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        var myName = "Craig"
+        let myName = "Craig"
+        print(myName)
     }
     
 // this is a change that I made
